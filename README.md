@@ -3,7 +3,7 @@
 - 沈阳科技学院 · 智能科学与技术 · 2027 届
 - 方向：RAG / Agent / Prompt Engineering ｜ 用 AI 编程工具做端到端交付
 - 语言：日语（大学日语四级）· 英语技术文档读写水平
-- Bilibili：space.bilibili.com/114861810
+- Bilibili：https://space.bilibili.com/114861810
 - 抖音：https://v.douyin.com/goXgkcnd00E/ 3@0.com
 
 项目
